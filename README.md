@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Veasai
 #### I am Software Engineer
 
